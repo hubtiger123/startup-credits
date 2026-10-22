@@ -10,6 +10,7 @@ entity:
       valid_from: 2026-10-07T07:00:51Z
   category: payments-fintech
 profile:
+  summary: Airwallex provides a global financial platform for businesses, with multi-currency accounts, international payments, foreign-exchange conversions, and spend management.
   description: Global financial platform for businesses, offering multi-currency accounts, international payments, foreign exchange, and spend management.
   links:
     site: https://www.airwallex.com
@@ -55,13 +56,14 @@ offers:
         criterion_id: cri_01
         kind: manual
         reason: vendor-discretion
-        statement: Venture-backed startup with global ambitions and a business entity registered in Australia or New Zealand with a valid ABN or NZBN. Airwallex prioritises startups that have raised external funding (angel, seed, or institutional rounds). Requires an active Airwallex account; new customers sign up and access the offers in the Rewards tab of the web app. No cost to join; standard Airwallex fees and pricing apply after the promotional offers end. Terms and conditions apply.
+        statement: Seed-stage startup with a business entity registered in Australia or New Zealand with a valid ABN or NZBN. The program is designed for venture-backed startups with global ambitions (pre-seed to Series A) and requires an active Airwallex account. Airwallex prioritises startups that have raised external funding (angel, seed, or institutional rounds). No cost to join; standard Airwallex fees and pricing still apply. Terms and conditions apply.
     roles:
       terms_authority_entity_id: ent_01m4ajmehc7pj552tzpbfth6kb
       access_operator_entity_id: ent_01m4ajmehc7pj552tzpbfth6kb
     access:
       availability: public
-      method: other
+      method: form
       url: https://www.airwallex.com/nz/startups
+      instructions: New customers can sign up for an Airwallex account to get started. Once your account is set up, you can access the available offers within the Rewards tab of the web app.
     source_ids:
       - src_4b1e3e42e0624abdee5d2c13a38a7965730404aa198b9608f11e4f6252120492
